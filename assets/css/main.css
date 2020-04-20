@@ -3219,3 +3219,7 @@ input, select, textarea {
 			}
 
 	}
+
+	.git-link {
+		/* float: right; */
+	}
